@@ -1,4 +1,4 @@
 ## Get Started with Solidity
-** This covers basic fundamentals in relate with sol
+**This covers basic fundamentals in relate with sol
 
-** Author IRAGUHA 
+**Author IRAGUHA 
