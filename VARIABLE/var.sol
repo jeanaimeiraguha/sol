@@ -3,10 +3,9 @@
 
 pragma solidity ^0.8.1;
 
-contract Hello{
-    bool public name = "Iraguha";
+// state variable 
+/*
+These are the variables declared inside function
 
-    function getName() public view returns(string memory) {
-        return name;
-      }
-}
+are stored permanently on the block chain and their values are persistent across function calls and contract instances
+*/
