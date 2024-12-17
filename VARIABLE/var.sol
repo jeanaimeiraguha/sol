@@ -11,7 +11,7 @@ are stored permanently on the block chain and their values are persistent across
 */
 
 contract Doo{
-    uint256 public fees=45;
+    uint256 public fees=4500;
     function getMyValue() external view returns(uint256) {
         return fees; // A simple getter.
       }
